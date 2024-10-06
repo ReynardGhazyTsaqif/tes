@@ -211,7 +211,7 @@ button:hover {
 }
 
 #about{
-    background-image: url("Pic/bg.avif");
+    background-image: url("bg.avif");
     height: 100vh;
     background-size: cover;
     display: flex;
