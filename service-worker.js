@@ -4,7 +4,12 @@ const cache_assets = [
     'contact.html',
     'about.html',
     'offline.html',
-    'styles.css',
+    'index.css',
+    'index.css',
+    'about.css',
+    'contact.css',
+    'offline.css',
+    'about.js'
 ];
 
 // Install event
