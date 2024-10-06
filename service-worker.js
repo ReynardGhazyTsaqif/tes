@@ -4,6 +4,8 @@ const cache_assets = [
     'contact.html',
     'about.html',
     'offline.html',
+    'confirmation.html',
+    'confirmation.css',
     'index.css',
     'index.css',
     'about.css',
